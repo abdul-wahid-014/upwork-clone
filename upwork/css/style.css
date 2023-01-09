@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding: 0;
+    /* border: 1px solid red; */
+}
+div a{
+    width:73px;
+    height: 20px;
+}
+ul,li{
+    display: inline-block;
+}
+div{
+width: 1130px;
+height: 50px; 
+margin:14.5px auto;   
+}
+
+li{
+    padding: 15px;
+    color: grey;
+    margin-right: 20px;
+}
+#search{
+    width:258px;
+    height:40px;
+    padding:0 7px 0 54px;
+    border-radius: 20px;
+    margin-right:20px;
+    border-color: green;
+}
+#login{
+    color: green;
+    padding:0 20px;
+    text-decoration: none;
+}
+#signup{
+    width: 114px;
+    height: 40px;
+    padding: 12px 29px;
+    border-radius: 20px;
+    color: white;
+    background-color: green;
+    text-decoration: none;
+}
+a#logo{
+font-size: 20px;
+width: 103px;
+height: 20px;
+color: green;
+text-decoration: none;
+font-weight: bold;
+}
+hr{
+    width:1140px;
+    margin: auto;
+}
+#div2{
+    width: 1140px;
+    height: 75px;
+    margin:0 105px;
+}
+h1#div3h1{
+    font-size: 80px;
+    color: green;
+}
+h2#div3h2{
+    margin: 30px 0px 40px 0px;
+    font-size: 24px;
+    color: grey;
+}
+a#findtalent,a#findwork{
+    width: 137px;
+    height: 40px;
+    padding: 12px 29px;
+    border-radius:20px ;
+    text-decoration: none;
+}
+#findtalent{
+color:white ;
+background-color: green;
+margin-right: 15px;
+
+}
+#findwork{
+    color: green;
+    background-color: white;
+    border-color: green;
+}
+
